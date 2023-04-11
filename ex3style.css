@@ -1,0 +1,85 @@
+* html{
+    margin: 0 auto;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(
+                            rgba(0,0,0,255),rgba(0,0,0,.3)
+                          ), url("https://img1.goodfon.com/original/1919x1079/a/85/flour-baked-cookies.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+
+
+}
+
+h1{
+    font-family: "Garamond", serif;
+    color: white;
+    text-align: center;
+
+}
+
+h2{
+    font-family: "Brush Script MT", cursive;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul{
+    font-family: "Brush Script MT", cursive;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 0;
+    padding-left: 0;
+
+}
+
+li {
+  font-family: "Brush Script MT", cursive;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.risk{
+    text-decoration: line-through;
+}
+
+p {
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 40%;
+
+}
+
+.italic{
+    font-style: italic;
+}
+
+.footer {
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
+img{
+  height: 22px;
+  max-width: 100%;
+
+}
